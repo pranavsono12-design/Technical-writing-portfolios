@@ -25,7 +25,10 @@ Do not ask the AI to "write a manual." Instead, provide a **Role Prompt**.
 ### Step 2: Drafting the Content
 Paste your raw technical data into the AI.
 
+#### DRAFT
+
 ```text
 [INSERT RAW DATA HERE]
 Input: Error 505 occurs when the handshake fails due to timeout.
+
 Action: Check the network latency and reset the port.
